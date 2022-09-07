@@ -1,4 +1,4 @@
-# LiquibaseMultiSchemaIssue
+# LiquibaseH2Issue
 
 Demo showing creating a table with INT(10) no longer works with H2.x, whereas it does under H2 v1.x
 
